@@ -1,0 +1,6 @@
+{
+  "name": "Mint Scribe-2",
+  "description": "Yapay zeka destekli, canvas modlu ve çok sekmeli zengin hikaye yazma ve planlama aracı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
